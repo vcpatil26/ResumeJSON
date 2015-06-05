@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Varun Patil",
+    "label": "Recent grad from Indiana University",
+    "email": "vcpatil@indiana.edu",
+    "phone": "(812) 606-4977",
+    "summary": "I have recently graduated from Indiana University with my Masters in Computer Science and am looking out for jobs in Web Development and Software Engineering that align with my interests and skills set.",
+    "location": {
+      "address": "10125 Palms Blvd #208",
+      "postalCode": "CA 90034",
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "url": "https://github.com/vcpatil26"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/pub/varun-patil/72/a72/7b6"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Indiana University- PHIT Lab",
+      "position": "Research Assistant",
+      "website": "http://www.iu.edu/~phitlab/indiana/",
+      "startDate": "September 2014",
+      "endDate": "May 2015",
+      "summary": "Worked  as a Technological Lead on the SOLACE project under the guidance of Dr. Kay Connelly.
+				  \\nMy responsibility was to enable the successful migration of the server. The including tasks were
+				  \\n Database Design
+				  \\n Debugging Windows Application Code
+				  \\n Testing Hardware Components
+				  \\n Installation and Deployment
+				  \\nTechnologies: C#, MySQL, Audrino",
+    },
+	{
+      "company": "ABM Knowledgeware Ltd.",
+      "position": "Assistant Software Tester",
+      "website": "http://www.abmindia.com/",
+      "startDate": "June 2012",
+      "endDate": "July 2012",
+      "summary": "Worked on the Capital Value Systems project which automated the process of calculating property taxes in the Greater Mumbai area. The projects was being developed for the Municipal Corporation of Greater Mumbai. I worked on the project as a black-box tester.",
+    }
+  ],
+  "project": [
+    {
+      "name": "Web Calculator",
+      "startDate": "May 2015",
+      "endDate": ",
+      "summary": "Designed and developed a web calculator implementing addition, subtraction, multiplication, division, square root and clear screen functionality. \\n Additionally, the calculator had a theme that enabled the user to switch between light and dark themes. \\nTechnologies: HTML5, CSS3,JavaScript.  ",
+    },
+	{
+      "name": "Property Rate Recommendation System",
+      "startDate": "January 2015",
+      "endDate": "April 2014",
+      "summary": "Used Case-based Reasoning to predict the rents of the houses in a particular area. \\n The predictions were made in accordance with six parameters: zip code, area of the house, per capita income of the household, type of the house, year of construction or redevelopment and the locality indicator.\\n Euclidean distance was used to find the nearest clusters which were filtered using a Rule-Based approach.",
+    },
+	{
+      "name": "Cloud Computing Projects using Hadoop, HDFS, HBase and Pig",
+      "startDate": "January 2015",
+      "endDate": "May 2015",
+      "summary": "1) Hadoop Blast:\\n
+					 Hadoop-Blast is an advanced Hadoop program which helps BLAST (Basic Local Alignment Search Tool), a bioinformatics application, to utilize the computing capability of Hadoop.\\n
+					 2) PageRank Algorithm:\\n
+					 Implemented a parallel version of PageRank using the programming interfaces of the Hadoop MapReduce framework.\\n
+					 3) Pig K-means\\n
+					 Implemented K-means clustering algorithm using Pig.\\n
+					 4) Search Engine:\\n
+					 Created inverted index and stored it in HBase. Ranked all the documents using Page Rank algorithm. Can search query, based on index created and return documents based on ranking. ",
+    },
+	{
+      "name": "Thanksgiving",
+      "startDate": "September 2014",
+      "endDate": "December 2014",
+      "summary": "A team of four members, built a task management system for roommates to create, assign, edit and track daily chores to be shared among roommates.
+	  \\nMy responsibilities included to Analyze, Design, Build and Test the application with strict adherence to Agile Methodology and Industry standard coding metrics.
+	  \\nThe application was designed and built using Java Servlets, Java Server Pages, Bootstrap (HTML, CSS, JavaScript), My SQL 6.2, Eclipse Luna IDE and Tomcat v7.0 server to host the application.",
+    },
+	{
+      "name": "Logic Vulnerabilities in Web Applications",
+      "startDate": "October 2014",
+      "endDate": "December 2014",
+      "summary": "A research project that focused on the analysis of web vulnerabilities that are specific to the functionality of the application.
+	  \\nAnalyzed the common logic flaws in website development and demonstrated three attacks targeting them.
+	  \\nA comparative analysis of detection prototypes including Waler, MiMoSa, Swaddler, BLOCK and Inte-Guard.  ",
+    },
+	{
+      "name": "Analysis of VirusTotal Android Application",
+      "startDate": "November 2014",
+      "endDate": "December 2014",
+      "summary": "Compiled the results after tests on 228 android applications on Google PlayStore.
+	  \\nResults showed many cases of false positives including some of the most downloaded applications like Yelp.
+	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips.",
+    },
+	{
+      "name": "",
+      "startDate": "November 2014",
+      "endDate": "December 2014",
+      "summary": "Compiled the results after tests on 228 android applications on Google PlayStore.
+	  \\nResults showed many cases of false positives including some of the most downloaded applications like Yelp.
+	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips.",
+    }
+	]
+  "volunteer": [
+    {
+      "organization": "Chaitanya Sanstha",
+      "position": "Teacher",
+      "startDate": "June 2012",
+      "endDate": "July 2012",
+      "summary": "Drawing sketches and reading books to mentally challenged students.",
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University Bloomington",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "August 2013",
+      "endDate": "May 2015",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },
+	 {
+      "institution": "University of Mumbai",
+      "area": "Information Technology",
+      "studyType": "Bachelors",
+      "startDate": "August 2009",
+      "endDate": "May 2013",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+	{
+      "language": "Hindi",
+      "fluency": "Native or bilingual proficiency"
+    },
+	{
+      "language": "Marathi",
+      "fluency": "Native speaker"
+    }
+  ],
+  
+}
