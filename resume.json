@@ -95,7 +95,7 @@
       "endDate": "December 2014",
       "summary": "Compiled the results after tests on 228 android applications on Google PlayStore.
 	  \\nResults showed many cases of false positives including some of the most downloaded applications like Yelp.
-	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips.",
+	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips."
     },
 	{
       "name": "",
@@ -103,7 +103,7 @@
       "endDate": "December 2014",
       "summary": "Compiled the results after tests on 228 android applications on Google PlayStore.
 	  \\nResults showed many cases of false positives including some of the most downloaded applications like Yelp.
-	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips.",
+	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips."
     }
 	]
   "volunteer": [
@@ -112,19 +112,27 @@
       "position": "Teacher",
       "startDate": "June 2012",
       "endDate": "July 2012",
-      "summary": "Drawing sketches and reading books to mentally challenged students.",
+      "summary": "Drawing sketches and reading books to mentally challenged students."
     }
   ],
   "education": [
     {
-      "institution": "Indiana University Bloomington",
+      "institution": "Indiana University Bloomington",,
       "area": "Computer Science",
       "studyType": "Masters",
       "startDate": "August 2013",
       "endDate": "May 2015",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "CSCI B561 - Advanced Database Concepts",
+        "CSCI B501 - Theory of Computing",
+        "CSCI B552 - Knowledge Based Artificial Intelligence",
+		"CSCI B649 - Topics in Systems- Cloud Computing",
+        "CSCI B649 - Topics in Systems- Malware: Threat and Defense",
+		"CSCI B561 - Topics in Systems- System and Protocol Security and Information Assurance",
+        "CSCI P565 - Software Engineering I",
+		"CSCI p542 - Hardware System Design II",
+        "INFO I590 - Topics in Informatics- Big Data Applications and Technology",
+		"ILS Z532 - Info Architecture For The Web"
       ]
     },
 	 {
@@ -134,8 +142,23 @@
       "startDate": "August 2009",
       "endDate": "May 2013",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Computer Programming: I",
+        "Computer Programming: II",
+		"Data Structures and Algorithms",
+		"GUI and DBMS",
+		"Internet Programming",
+		"Microprocessors and Microcontrollers",
+		"Networking Technology for Digital Devices",
+		"Operating Systems for Computational Devices",
+		"Computer Graphics and Virtual Reality Systems",
+		"Convergence of Technologies and Networking in Communications",
+		"Object Oriented Analysis and Design",
+		"Information and Network Security",
+		"Programming for Mobile and Remote Computers",
+		"Database Technologies",
+		"Software Engineering",
+		"I.T. for Management Enterprises",
+		"Middleware and Enterprise Integration Technologies",
       ]
     }
   ],
