@@ -141,24 +141,53 @@
   ],
   "skills": [
     {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "C++",
+        "C",
+		"VB.Net",
+		"VB6"
+      ]
+    }
+	{
       "name": "Web Development",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "HTML5",
+        "CSS 3",
+        "Javascript",
+		"AJAX",
+		"jQuery",
+		"Sass",
+		"AngularJS",
+		"Bootstrap Framework",
+		"JSON"
       ]
     },
-    {
-      "name": "Compression",
-      "level": "Master",
+	{
+      "name": "Database Technologies",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "MySQL",
+        "Microsoft Access",
+        "SQL"
+      ]
+    }
+    {
+      "name": "Tools and Utilities",
+      "keywords": [
+        "Eclipse",
+        "Rational Rose",
+        "Code Blocks",
+		"Notepad++",
+		"Adobe Dreamweaver",
+		"Adobe Photoshop",
+		"Microsoft Office",
+		"Git",
+		"NetBeans"
       ]
     }
   ],
-  "languages": [
+  "Languages": [
     {
       "language": "English",
       "fluency": "Native or bilingual proficiency"
