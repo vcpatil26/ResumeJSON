@@ -98,14 +98,54 @@
 	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips."
     },
 	{
-      "name": "",
-      "startDate": "November 2014",
-      "endDate": "December 2014",
-      "summary": "Compiled the results after tests on 228 android applications on Google PlayStore.
-	  \\nResults showed many cases of false positives including some of the most downloaded applications like Yelp.
-	  \\nDiscovered the existence of malicious applications on PlayStore like Talking Tom Cat 2 Free, Subway Surfers Free Tips."
+      "name": "The Step Counter",
+      "startDate": "March 2014",
+      "endDate": "May 2014",
+      "summary": "Designed and implemented a pedometer using an STM32 board.
+	  \\nThe accelerometer was interfaced with the STM32 board using C.
+	  \\nThe data coming from the accelerometer was logged onto an onboard SD card.
+	  \\nThe data in the SD card was parsed using a Java code on the user's workstation."
+    },
+	{
+      "name": "Chavishta.com",
+      "startDate": "April 2014",
+      "endDate": "May 2014",
+      "summary": "Developed a responsive website that displays a collection of Indian Recipes using the Bootstrap Framework.
+	  \\n Includes the bootstrap features like Accordion, Carousel, Navigation Bar and Modals."
+    },
+	{
+      "name": "Chavishta.com",
+      "startDate": "April 2014",
+      "endDate": "May 2014",
+      "summary": "Proposed a research paper for developing a scalable travel recommender system using Cloud, Big Data, and hybrid recommender system (Incorporating content and collaborative filtering system)."
+    },
+	{
+      "name": "Altimeter",
+      "startDate": "April 2014",
+      "endDate": "",
+      "summary": "Developed an altimeter using STM32  microcontroller which could measure the altitude of the building with the help of a pressure sensor and a temperature sensor 
+    \\n The system was integrated with a memory card which was used to store the recorded data. "
+    },
+	{
+      "name": "IOweU",
+      "startDate": "August 2013",
+      "endDate": "December 2013",
+      "summary": "Developed a web application that enabled the user to conveniently split bills among fellow users and successfully manage shared expenses.
+	\\n Developed using Spring Framework.
+	\\n Used MySQL on server side which was called using jQuery and AJAX from the client side.
+	\\n Used the Bootstrap Framework for front end."
+    },
+	{
+      "name": "IOweU",
+      "startDate": "August 2013",
+      "endDate": "December 2013",
+      "summary": "Helped in eliminating the use of ATM cards for ATM transactions by replacing them with biometric authentication.
+	\\n VB.net, Java and VB6 were used for front-end development.
+	\\n MS SQL Server and MS Access were used at the back-end.
+	\\n Minutiae extraction algorithm was used for feature extraction and pattern matching."
     }
 	]
+	
   "volunteer": [
     {
       "organization": "Chaitanya Sanstha",
@@ -158,7 +198,7 @@
 		"Database Technologies",
 		"Software Engineering",
 		"I.T. for Management Enterprises",
-		"Middleware and Enterprise Integration Technologies",
+		"Middleware and Enterprise Integration Technologies"
       ]
     }
   ],
